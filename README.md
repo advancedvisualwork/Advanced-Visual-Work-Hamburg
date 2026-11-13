@@ -50,41 +50,15 @@ Este sistema/site foi desenvolvido para oferecer uma experiência visual apetito
 
 Toda a direção de arte do projeto segue uma estética **Dark & Moody** (fundo preto fosco `#0A0A0A` e ardósia escura), utilizando iluminação lateral suave para realçar a textura, o vapor e o frescor dos ingredientes de cada lanche.
 
----
+--- 
 
-## 💻 Como Executar o Projeto Localmente
-
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/avw-lanches.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd avw-lanches
-   ```
-
-3. **Instale as dependências** *(caso utilize Node.js/React)*:
-   ```bash
-   npm install
-   ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-   *(Ou simplesmente abra o arquivo `index.html` no seu navegador, caso seja um projeto estático).*
-
----
-
-## 📞 Contato e Pedidos
-
-* **Instagram:** [@avwlanches](#)
-* **WhatsApp:** [(XX) XXXXX-XXXX](#)
-* **Horário de Funcionamento:** Terça a Domingo, das 18h às 23h30.
+## 📞 Contato para sites
+* **Site Oficial** advancedvisualwork.vercel.app
+* **Instagram:** @advancedvisualwork
+* **E-mail:** advancedvisualwork@gmail.com
 
 ---
 
 <p align="center">
-  Feito com 🍔 e dedicação para a <strong>AVW Lanches</strong>.
+  Feito por João Henrique e Matheus
 </p>
