@@ -53,7 +53,7 @@ Toda a direção de arte do projeto segue uma estética **Dark & Moody** (fundo 
 --- 
 
 ## 📞 Contato para sites
-* **Site Oficial** advancedvisualwork.vercel.app
+* **Site Oficial:** advancedvisualwork.vercel.app
 * **Instagram:** @advancedvisualwork
 * **E-mail:** advancedvisualwork@gmail.com
 
